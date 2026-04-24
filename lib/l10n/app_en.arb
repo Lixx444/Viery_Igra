@@ -1,0 +1,85 @@
+{
+  "@@locale": "en",
+
+  "appTitle": "AniTodoNotes",
+
+  "navHome": "Home",
+  "navTasks": "Tasks",
+  "navNotes": "Notes",
+
+  "tasksTitle": "Tasks",
+  "deleteTask": "Delete Task",
+  "deleteTaskConfirm": "Are you sure you want to delete this task?",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "noTasksYet": "No tasks yet!\nTap + to add one.",
+  "editTask": "Edit Task",
+  "newTask": "New Task",
+  "taskTitleHint": "Task title...",
+  "priorityLabel": "Priority: ",
+  "dateLabel": "Date:  {date}",
+  "@dateLabel": {
+    "placeholders": {
+      "date": { "type": "String" }
+    }
+  },
+  "update": "Update",
+  "save": "Save",
+
+  "notesTitle": "Notes",
+  "noNotesYet": "No notes yet!\nTap + to create one.",
+  "editNote": "Edit Note",
+  "newNote": "New Note",
+  "noteNameHint": "Name...",
+  "noteTextHint": "Text... (supports Markdown)",
+  "deleteNote": "Delete Note",
+  "deleteNoteConfirm": "Are you sure you want to delete this note?",
+  "discardTask": "Discard Task?",
+  "discardTaskConfirm": "You have unsaved changes. Discard them?",
+  "discardNote": "Discard Note?",
+  "discardNoteConfirm": "You have unsaved changes. Discard them?",
+  "discard": "Discard",
+  "editTooltip": "Edit",
+  "previewTooltip": "Preview",
+  "nothingToPreview": "*Nothing to preview*",
+  "untitled": "Untitled",
+  "lastEdit": "Last edit: {date}",
+  "@lastEdit": {
+    "placeholders": {
+      "date": { "type": "String" }
+    }
+  },
+
+  "todaysTasks": "Today's Tasks: {count}",
+  "@todaysTasks": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "noTasksToday": "No tasks for today!",
+  "moreTasksCount": "+ {count} more",
+  "@moreTasksCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+
+  "changePicture": "Change picture",
+  "removePicture": "Remove picture",
+  "tapForMore": "TAP for more",
+
+  "priorityLow": "Low",
+  "priorityMedium": "Medium",
+  "priorityHigh": "High",
+
+  "quote0": "I''m always with you!",
+  "quote1": "You''re doing great, keep going!",
+  "quote2": "One step at a time!",
+  "quote3": "Believe in yourself!",
+  "quote4": "Today is a good day to be productive!",
+  "quote5": "Small progress is still progress!",
+  "quote6": "You''ve got this!",
+  "quote7": "Stay focused and never give up!",
+  "quote8": "Every task completed is a victory!",
+  "quote9": "Keep shining bright!"
+}
